@@ -1,4 +1,7 @@
 # 01 HTML CSS Git: Code Refactor
+It is important that proper semantic tags are put in place to make the website more professional
+
+Added comments on all CSS selectors 
 
 ## Your Task
 
