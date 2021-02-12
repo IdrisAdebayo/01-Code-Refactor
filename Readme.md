@@ -45,12 +45,6 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
-## Mock-Up
-
-The following image shows the web application's appearance and functionality:
-
-![code refactor demo](./Assets/01-html-css-git-homework-demo.png)
-
 
 ## Grading Requirements
 
